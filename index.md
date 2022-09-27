@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### School Projects 
 
-[Project 1 Title](/sample_page)
+[Africa's Vegetation through Seasons](/sample_page)
 <img src="/images/AfricaGif.gif?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="C:/Users/18326/Pictures/Screenshots/feature.GIF"/>
+[Composite Image](/pdf/sample_presentation.pdf)
+<img src="/images/feature.GIF?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Classification Example](http://example.com/)
 <img src="/images/Classification.GIF?raw=true"/>
 
 ---
