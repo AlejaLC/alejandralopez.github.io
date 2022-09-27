@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="/Pictures/Screenshots/AfricaGif.gif"/>
+<img src="/images/me.jfif?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
