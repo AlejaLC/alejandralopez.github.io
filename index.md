@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="C:/Users/18326/Pictures/Screenshots/Classification.GIF"/>
 
 ---
 
