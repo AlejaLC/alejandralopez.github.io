@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](https://storymaps.arcgis.com/stories/ac434c4685304321a18f47bd3c0dffcd)
+- [Healthy FOod Acess in Harris County Story Map](https://storymaps.arcgis.com/stories/ac434c4685304321a18f47bd3c0dffcd/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
