@@ -7,8 +7,9 @@
 [7th at Shepherd](http://example.com/)
 <img src="images/7th_sheperd.PNG?raw=true"/>
 
-[Tony Morron Ownership](/pdf/sample_presentation.pdf)
+[Tony Morron Ownership](pdf/sample_presentation.pdf)
 <img src="pdf/TONY MARRON OWNERSHIP.pdf?raw=true"/>
+
 ---
 [Composite Image](/pdf/sample_presentation.pdf)
 <img src="images/feature.GIF?raw=true"/>
