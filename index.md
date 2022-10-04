@@ -9,7 +9,7 @@
 
 ---
 [Composite Image](/pdf/sample_presentation.pdf)
-<img src="images/?raw=true"/>
+<img src="images/feature.GIF?raw=true"/>
 
 ---
 [Classification Example](http://example.com/)
