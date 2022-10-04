@@ -4,7 +4,7 @@
 
 ### School Projects 
 
-[7th Sheperd]
+[7th at Shepherd]
 <img src="images/7th_sheperd.PNG?raw=true"/>
 
 ---
