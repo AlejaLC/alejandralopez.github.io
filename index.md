@@ -5,7 +5,7 @@
 ### School Projects 
 
 [7th Sheperd](/sample_page)
-<img src="pdf/7th_Shepherd.pdf?raw=true"/>
+<img src="/pdf/7th_Shepherd.pdf?raw=true"/>
 
 ---
 [Composite Image](/pdf/sample_presentation.pdf)
