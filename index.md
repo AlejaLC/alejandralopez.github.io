@@ -18,7 +18,7 @@
 ---
 
 ### Class Projects
-- [![Healthy Food Access in Harris County Story Map](images/HealthyFoodAccess.PNG)](https://storymaps.arcgis.com/stories/ac434c4685304321a18f47bd3c0dffcd/)
+- [![Healthy Food Access in Harris County Story Map](images/HealthyFoodAccess.PNG)](https://storymaps.arcgis.com/stories/ac434c4685304321a18f47bd3c0dffcd)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
