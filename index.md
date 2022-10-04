@@ -4,7 +4,7 @@
 
 ### School Projects 
 
-[7th Sheperd](/sample_page)
+[7th Sheperd]
 <img src="/pdf/7th_Shepherd.pdf?raw=true"/>
 
 ---
