@@ -13,7 +13,7 @@
 
 ---
 [Classification Example](http://example.com/)
-<img src="/images/Classification.GIF?raw=true"/>
+<img src="images/Classification.GIF?raw=true"/>
 
 ---
 
