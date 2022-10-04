@@ -4,12 +4,12 @@
 
 ### School Projects 
 
-[Africa's Vegetation through Seasons](/sample_page)
-<img src="/images/AfricaGif.gif?raw=true"/>
+[7th Sheperd](/sample_page)
+<img src="pdf/7th_Shepherd.pdf?raw=true"/>
 
 ---
 [Composite Image](/pdf/sample_presentation.pdf)
-<img src="/images/feature.GIF?raw=true"/>
+<img src="images/?raw=true"/>
 
 ---
 [Classification Example](http://example.com/)
