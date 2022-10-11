@@ -22,7 +22,7 @@
 
 ### Class Projects
 - [![Healthy Food Access in Harris County Story Map](images/HealthyFoodAccess.PNG)](https://storymaps.arcgis.com/stories/ac434c4685304321a18f47bd3c0dffcd)
-- [Before and After Fire](https://alejandraslopezcamero.users.earthengine.app/view/before-and-after-fire)
+- [![Before and After Fire](images/Before_After.PNG)](https://alejandraslopezcamero.users.earthengine.app/view/before-and-after-fire)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 
