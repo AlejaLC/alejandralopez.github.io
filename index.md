@@ -2,7 +2,7 @@
 
 ---
 
-### School Projects 
+### Class Projects 
 
 [7th at Shepherd](http://example.com/)
 <img src="images/7th_sheperd.PNG?raw=true"/>
@@ -23,12 +23,10 @@
 ### Class Projects
 - [![Healthy Food Access in Harris County Story Map](images/HealthyFoodAccess.PNG)](https://storymaps.arcgis.com/stories/ac434c4685304321a18f47bd3c0dffcd)
 - [![Before and After Fire](images/Before_After.PNG)](https://alejandraslopezcamero.users.earthengine.app/view/before-and-after-fire)
-- [Project 3 Title](http://example.com/)
+- [![Africa](images/AfricaGif.gif)](https://code.earthengine.google.com/?scriptPath=users%2Falejandraslopezcamero%2Fdefault%3AAssingment11)
 - [Project 4 Title](http://example.com/)
 
 ---
-
-
 
 
 ---
